@@ -1,0 +1,7 @@
+C:\Users\ggina\OneDrive\Área de Trabalho\ATV2_Ivan_Console\ATV2_Ivan_Console\bin\Debug\ATV2_Ivan_Console.exe.config
+C:\Users\ggina\OneDrive\Área de Trabalho\ATV2_Ivan_Console\ATV2_Ivan_Console\bin\Debug\ATV2_Ivan_Console.exe
+C:\Users\ggina\OneDrive\Área de Trabalho\ATV2_Ivan_Console\ATV2_Ivan_Console\bin\Debug\ATV2_Ivan_Console.pdb
+C:\Users\ggina\OneDrive\Área de Trabalho\ATV2_Ivan_Console\ATV2_Ivan_Console\obj\Debug\ATV2_Ivan_Console.csproj.AssemblyReference.cache
+C:\Users\ggina\OneDrive\Área de Trabalho\ATV2_Ivan_Console\ATV2_Ivan_Console\obj\Debug\ATV2_Ivan_Console.csproj.CoreCompileInputs.cache
+C:\Users\ggina\OneDrive\Área de Trabalho\ATV2_Ivan_Console\ATV2_Ivan_Console\obj\Debug\ATV2_Ivan_Console.exe
+C:\Users\ggina\OneDrive\Área de Trabalho\ATV2_Ivan_Console\ATV2_Ivan_Console\obj\Debug\ATV2_Ivan_Console.pdb

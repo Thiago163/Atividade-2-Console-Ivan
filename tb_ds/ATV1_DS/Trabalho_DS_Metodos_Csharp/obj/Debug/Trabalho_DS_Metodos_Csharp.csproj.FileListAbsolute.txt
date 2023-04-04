@@ -1,0 +1,16 @@
+C:\Users\Luiz\OneDrive - Etec Centro Paula Souza\Área de Trabalho\TbDS2\Trabalho_DS_Metodos_Csharp\Trabalho_DS_Metodos_Csharp\bin\Debug\Trabalho_DS_Metodos_Csharp.exe.config
+C:\Users\Luiz\OneDrive - Etec Centro Paula Souza\Área de Trabalho\TbDS2\Trabalho_DS_Metodos_Csharp\Trabalho_DS_Metodos_Csharp\bin\Debug\Trabalho_DS_Metodos_Csharp.exe
+C:\Users\Luiz\OneDrive - Etec Centro Paula Souza\Área de Trabalho\TbDS2\Trabalho_DS_Metodos_Csharp\Trabalho_DS_Metodos_Csharp\bin\Debug\Trabalho_DS_Metodos_Csharp.pdb
+C:\Users\Luiz\OneDrive - Etec Centro Paula Souza\Área de Trabalho\TbDS2\Trabalho_DS_Metodos_Csharp\Trabalho_DS_Metodos_Csharp\obj\Debug\Trabalho_DS_Metodos_Csharp.csproj.AssemblyReference.cache
+C:\Users\Luiz\OneDrive - Etec Centro Paula Souza\Área de Trabalho\TbDS2\Trabalho_DS_Metodos_Csharp\Trabalho_DS_Metodos_Csharp\obj\Debug\Trabalho_DS_Metodos_Csharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Luiz\OneDrive - Etec Centro Paula Souza\Área de Trabalho\TbDS2\Trabalho_DS_Metodos_Csharp\Trabalho_DS_Metodos_Csharp\obj\Debug\Trabalho_DS_Metodos_Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Luiz\OneDrive - Etec Centro Paula Souza\Área de Trabalho\TbDS2\Trabalho_DS_Metodos_Csharp\Trabalho_DS_Metodos_Csharp\obj\Debug\Trabalho_DS_Metodos_Csharp.exe
+C:\Users\Luiz\OneDrive - Etec Centro Paula Souza\Área de Trabalho\TbDS2\Trabalho_DS_Metodos_Csharp\Trabalho_DS_Metodos_Csharp\obj\Debug\Trabalho_DS_Metodos_Csharp.pdb
+C:\Users\Luiz\OneDrive - Etec Centro Paula Souza\Área de Trabalho\TbDS2\TB_DS_EX1\Trabalho_DS_Metodos_Csharp\bin\Debug\Trabalho_DS_Metodos_Csharp.exe.config
+C:\Users\Luiz\OneDrive - Etec Centro Paula Souza\Área de Trabalho\TbDS2\TB_DS_EX1\Trabalho_DS_Metodos_Csharp\bin\Debug\Trabalho_DS_Metodos_Csharp.exe
+C:\Users\Luiz\OneDrive - Etec Centro Paula Souza\Área de Trabalho\TbDS2\TB_DS_EX1\Trabalho_DS_Metodos_Csharp\bin\Debug\Trabalho_DS_Metodos_Csharp.pdb
+C:\Users\Luiz\OneDrive - Etec Centro Paula Souza\Área de Trabalho\TbDS2\TB_DS_EX1\Trabalho_DS_Metodos_Csharp\obj\Debug\Trabalho_DS_Metodos_Csharp.csproj.AssemblyReference.cache
+C:\Users\Luiz\OneDrive - Etec Centro Paula Souza\Área de Trabalho\TbDS2\TB_DS_EX1\Trabalho_DS_Metodos_Csharp\obj\Debug\Trabalho_DS_Metodos_Csharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Luiz\OneDrive - Etec Centro Paula Souza\Área de Trabalho\TbDS2\TB_DS_EX1\Trabalho_DS_Metodos_Csharp\obj\Debug\Trabalho_DS_Metodos_Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Luiz\OneDrive - Etec Centro Paula Souza\Área de Trabalho\TbDS2\TB_DS_EX1\Trabalho_DS_Metodos_Csharp\obj\Debug\Trabalho_DS_Metodos_Csharp.exe
+C:\Users\Luiz\OneDrive - Etec Centro Paula Souza\Área de Trabalho\TbDS2\TB_DS_EX1\Trabalho_DS_Metodos_Csharp\obj\Debug\Trabalho_DS_Metodos_Csharp.pdb

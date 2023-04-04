@@ -1,0 +1,7 @@
+C:\Users\ggina\OneDrive\Área de Trabalho\tb_ds\ATV1_DS\Trabalho_DS_Metodos_Csharp\bin\Debug\Trabalho_DS_Metodos_Csharp.exe.config
+C:\Users\ggina\OneDrive\Área de Trabalho\tb_ds\ATV1_DS\Trabalho_DS_Metodos_Csharp\bin\Debug\Trabalho_DS_Metodos_Csharp.exe
+C:\Users\ggina\OneDrive\Área de Trabalho\tb_ds\ATV1_DS\Trabalho_DS_Metodos_Csharp\bin\Debug\Trabalho_DS_Metodos_Csharp.pdb
+C:\Users\ggina\OneDrive\Área de Trabalho\tb_ds\ATV1_DS\Trabalho_DS_Metodos_Csharp\obj\Debug\ATV1_Ivan_Console.csproj.AssemblyReference.cache
+C:\Users\ggina\OneDrive\Área de Trabalho\tb_ds\ATV1_DS\Trabalho_DS_Metodos_Csharp\obj\Debug\ATV1_Ivan_Console.csproj.CoreCompileInputs.cache
+C:\Users\ggina\OneDrive\Área de Trabalho\tb_ds\ATV1_DS\Trabalho_DS_Metodos_Csharp\obj\Debug\Trabalho_DS_Metodos_Csharp.exe
+C:\Users\ggina\OneDrive\Área de Trabalho\tb_ds\ATV1_DS\Trabalho_DS_Metodos_Csharp\obj\Debug\Trabalho_DS_Metodos_Csharp.pdb
